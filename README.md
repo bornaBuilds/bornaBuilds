@@ -9,11 +9,11 @@ While my studies covered both areas, my true passion lies in <b>software enginee
 
 <p>
 Currently, I work as a <b>Frontend Developer</b> at <a href="https://bid.agency/en">bid.</a>, but I am also deeply interested in backend development—specifically <b>API design</b>, <b>databases</b>, and building scalable systems.  
-Alongside this, I’m studying <b>Java development</b> and exploring low-level languages like <b>C++</b> and <b>Zig</b> to broaden my skill set and deepen my understanding of computer science.  
+Alongside this, I’m studying <b>Java development</b> and exploring low-level languages like <b>C++</b> and <b>Rust</b> to broaden my skill set and deepen my understanding of computer science.  
 </p>
 
 <p>
-Outside of web development, I’m learning the fundamentals of <b>game development</b> with <b>Godot</b>, and plan to explore game dev using Java, C++, and Zig as a way to strengthen my knowledge of these languages while creating small projects.  
+Outside of web development, I’m learning the fundamentals of <b>game development</b> with <b>Godot</b>, and plan to explore game dev using Java, C++, and Rust as a way to strengthen my knowledge of these languages while creating small projects.  
 </p>
 
 ---
